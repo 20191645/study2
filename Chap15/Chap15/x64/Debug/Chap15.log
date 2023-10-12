@@ -1,0 +1,6 @@
+﻿  pe14-3.cpp
+C:\Users\qmfoh\source\repos\C++ 기초 플러스\Chap15\Chap15\pe14-3.cpp(12,49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\qmfoh\source\repos\C++ 기초 플러스\Chap15\Chap15\pe14-3.cpp(13,49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\qmfoh\source\repos\C++ 기초 플러스\Chap15\Chap15\pe14-3.cpp(43,49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\qmfoh\source\repos\C++ 기초 플러스\Chap15\Chap15\pe14-3.cpp(48,49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  Chap15.vcxproj -> C:\Users\qmfoh\source\repos\study2\Chap15\x64\Debug\Chap15.exe

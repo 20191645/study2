@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Practice1">
+      <UniqueIdentifier>{d0c09945-412d-4db9-9666-15877319d305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice2">
+      <UniqueIdentifier>{29950402-2a53-4961-a17e-a85834e87871}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice3">
+      <UniqueIdentifier>{6afdd20a-ef18-4346-8a4a-b19de8b4d0d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice4">
+      <UniqueIdentifier>{8f9840f0-6021-438c-8eba-ec57a7190f88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice5">
+      <UniqueIdentifier>{18df488d-4ced-4b9a-8872-591bc20d0fb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice6">
+      <UniqueIdentifier>{1d52e694-a83c-4980-9796-fc2bca74a32e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pe12-1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pe12-2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pe12-4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pe12-5.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pe12-6.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pe12-1.cpp">
+      <Filter>소스 파일\Practice1</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-1_main.cpp">
+      <Filter>소스 파일\Practice1</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-2.cpp">
+      <Filter>소스 파일\Practice2</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-2_main.cpp">
+      <Filter>소스 파일\Practice2</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-3.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-3.cpp">
+      <Filter>소스 파일\Practice3</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-3_main.cpp">
+      <Filter>소스 파일\Practice3</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-4.cpp">
+      <Filter>소스 파일\Practice4</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-4_main.cpp">
+      <Filter>소스 파일\Practice4</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-5.cpp">
+      <Filter>소스 파일\Practice5</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-5_main.cpp">
+      <Filter>소스 파일\Practice5</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-6.cpp">
+      <Filter>소스 파일\Practice6</Filter>
+    </ClCompile>
+    <ClCompile Include="pe12-6_main.cpp">
+      <Filter>소스 파일\Practice6</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
